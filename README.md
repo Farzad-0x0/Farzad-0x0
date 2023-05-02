@@ -10,6 +10,10 @@ My nick name is **Farzad OXO** 🎈
 I live *programming* and big world of *Computer* 💻
 
 # 📱 Social :
+coming soon ...
+
+# 🔐 My skill :
+coming soon ...
 
 
 
