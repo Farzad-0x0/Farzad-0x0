@@ -3,8 +3,13 @@ Hello my friends 👋🏻
 
 My name is **Farzad Ebrahimy** 😉
 
+I'm 17 Y.o and live in _Iran / Tehran_ 🌍
+
 My nick name is **Farzad OXO** 🎈
 
-I'm 17 Y.o and live in iran 🌍
+I live programming and big world of *Computer* 💻
+
+
+
 
 
