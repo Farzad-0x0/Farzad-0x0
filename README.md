@@ -7,7 +7,10 @@ I'm 17 Y.o and live in _Iran / Tehran_ 🌍
 
 My nick name is **Farzad OXO** 🎈
 
-I live programming and big world of *Computer* 💻
+I live *programming* and big world of *Computer* 💻
+
+# 📱 Social :
+
 
 
 
