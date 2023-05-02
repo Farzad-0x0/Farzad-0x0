@@ -1,12 +1,9 @@
 # 💡 About me :
 Hello bro ✋🏼
 
+I'm Farzad Ebrahimy 🔓
 
-I'm Farzad Ebrahimy 
-
-
-My nickname is **Farzadᵒˣᵒ** 🎃
-
+My nickname is **Farzadᵒˣᵒ** 
 
 I live in iran/Tehran 🌍
 
