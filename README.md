@@ -10,8 +10,7 @@ My nick name is **Farzad OXO** 🎈
 I live *programming* and big world of *Computer* 💻
 
 # 📱 Social :
-coming soon ...
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/XEpFbnqrTq)
 # 🔐 My skill :
 coming soon ...
 
