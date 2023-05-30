@@ -12,7 +12,7 @@ I live *programming* and big world of *Computer* 💻
 # 📱 Social :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/XEpFbnqrTq)
 # 🔐 My skill :
-coming soon ...
+[![Python](https://images.app.goo.gl/vk7o26bpREBcRQCW9)]
 
 
 
