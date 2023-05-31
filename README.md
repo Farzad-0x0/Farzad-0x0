@@ -20,8 +20,5 @@ I live programming and big world of Computer 💻
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://simple.wikipedia.org/wiki/C_Sharp_(programming_language))
 
 
-![Dispy](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=yellow)
-
-
 
 
