@@ -16,5 +16,5 @@ I live programming and big world of Computer 💻
 # ⌨️ My skill 
 
 
-![test](https://img.shields.io/badge/Python-navad darsad-3776AB?style=for-the-badge&logo=python)
+![test](https://img.shields.io/badge/Python-navaddarsad-3776AB?style=for-the-badge&logo=python)
 
