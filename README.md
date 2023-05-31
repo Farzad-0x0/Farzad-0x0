@@ -19,7 +19,7 @@ I live programming and big world of Computer 💻
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://simple.wikipedia.org/wiki/C_Sharp_(programming_language))
 
-[![Discord configure](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=discord.py&logoColor=white)](https://simple.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![Discord configure](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=discord&logoColor=white)](https://simple.wikipedia.org/wiki/C_Sharp_(programming_language))
 
 
 
