@@ -22,3 +22,5 @@ I live programming and big world of Computer 💻
 
 
 
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
