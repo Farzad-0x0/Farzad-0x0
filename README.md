@@ -14,4 +14,3 @@ I live programming and big world of Computer 💻
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/9028612543)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](https://farzadebrahimyoxo@gmail.com)
 # ⌨️ My skill 
-![test](https://img.shields.io/badge/Python-Masfter-3776AB?style=for-the-badge&logo=python)
