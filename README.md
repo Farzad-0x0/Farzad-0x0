@@ -16,5 +16,5 @@ I live programming and big world of Computer 💻
 # ⌨️ My skill 
 
 
-![test]https://img.shields.io/badge/test-ejeh-<red>
+![test](https://img.shields.io/badge/test-ejeh-red)
 
