@@ -3,9 +3,9 @@ Hello my friends 👋🏻
 
 My name is **Farzad Ebrahimy** 😉
 
-I'm 17 Years old and live in Tehran 🌍
-
 My nick name is **Farzad OXO** 🎈
+
+I'm 17 Years old and live in Tehran 🌍
 
 I live programming and big world of Computer 💻
 
